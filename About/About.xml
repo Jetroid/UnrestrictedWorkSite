@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ModMetaData>
+  <name>Unrestricted Work Site</name>
+  <author>Jetroid</author>
+  <packageId>Jetroid.UnrestrictedWorkSite</packageId>
+  <url></url>
+  <description>
+Allows work sites to spawn at normal frequency so long as you have 1 or more colonists.
+Normally the game does not spawn Work Sites when you have just one colonist, and spawns them at half frequency when you have two colonists.
+  </description>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+</ModMetaData>

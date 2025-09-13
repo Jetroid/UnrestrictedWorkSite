@@ -1,0 +1,17 @@
+# Visual Studio temporary files, build results, etc.
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+bin/
+obj/
+Debug/
+Release/
+
+# Assemblies folder (compiled DLLs)
+Assemblies/
+*.dll
+*.pdb
